@@ -20,7 +20,7 @@ inputs:
   uri:
     description: 'uri format, eg. :year:month/:slug'
     required: false
-    default: ':year:month/:slug'
+    default: 'posts/:slug'
   index:
     description: 'algolia index name'
     required: ture
