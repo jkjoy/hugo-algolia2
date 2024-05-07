@@ -1,9 +1,9 @@
 {
   "name": "hugo-algolia2",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Enables search with Algolia in Hugo static sites",
-  "repository": "https://github.com/caibingcheng/hugo-algolia2.git",
-  "author": "bbing <jack_cbc@163.com>",
+  "repository": "https://github.com/jkjoy/hugo-algolia2.git",
+  "author": "jkjoy <jkjoy@163.com>",
   "license": "ISC",
   "main": "lib/index.js",
   "bin": {
@@ -13,7 +13,7 @@
     "test": "bin/index.js"
   },
   "dependencies": {
-    "algoliasearch": "^3.24.1",
+    "algoliasearch": "^4.23.3",
     "bytes": "^3.0.0",
     "commander": "^2.11.0",
     "glob": "^7.1.2",
